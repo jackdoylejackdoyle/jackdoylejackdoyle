@@ -1,4 +1,4 @@
-### Je m'appelle Data Science 4 Everyone! 
+Data Science 4 Everyone student. 
 
 <!--
 **jackdoylejackdoyle/jackdoylejackdoyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
